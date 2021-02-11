@@ -1,0 +1,10 @@
+{
+    "LabelSignUp":"REGISTER",
+    "LabelName":"Enter name",
+    "LabelEmail":"Enter e-mail",
+    "LabelPassword":"Enter password",
+    "ButtonSignUp":"Register",
+    "ButtonChangeLanguage":"Change language",
+    "ButtonTR":"TURKISH",
+    "ButtonEN":"ENGLISH"
+}
